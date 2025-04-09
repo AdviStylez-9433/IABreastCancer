@@ -23,7 +23,7 @@ Ejecutar el notebook Jupyter `breast_cancer_classification.ipynb` o el script `b
 3. Random Forest (con optimización de hiperparámetros)
 
 ## Resultados
-El mejor modelo fue [nombre del mejor modelo] con un F1-score de [valor].
+El mejor modelo fue Regresion Logistica con un F1-score de 0.98.
 
 ## Referencias
 - Scikit-learn: Pedregosa, F., et al. (2011). Journal of Machine Learning Research, 12, 2825-2830.
